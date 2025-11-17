@@ -54,7 +54,7 @@ Perfect for managing your daily to-dos efficiently while showcasing the best of 
 
 ---
 
-## Screenshots
+## 📸Screenshots
 <div style="display:flex; gap:10px; flex-wrap: wrap;">
   <img src="assets/1.jpg" alt="Home Screen" width="400"/>
   <img src="assets/2.jpg" alt="Home Screen" width="400"/>
