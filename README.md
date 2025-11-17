@@ -48,11 +48,20 @@ Perfect for managing your daily to-dos efficiently while showcasing the best of 
 
 ## 📝 Notes
 
-- This project is deliberately small and framework-light.  
-- You can extend it with routing, backend integration, or tests as needed.
+- This app is fully offline — **no backend required**  
+- Your tasks are stored in the browser  
+- Works on all modern browsers  
 
 ---
 
-## 📸 Screenshots
+## Screenshots
+<div style="display:flex; gap:10px; flex-wrap: wrap;">
+  <img src="assets/1.jpg" alt="Home Screen" width="400"/>
+  <img src="assets/2.jpg" alt="Home Screen" width="400"/>
+  <img src="assets/3.jpg" alt="Home Screen" width="400"/>
+  <img src="assets/4.jpg" alt="Home Screen" width="400"/>
+  <img src="assets/5.jpg" alt="Home Screen" width="400"/>
+  <img src="assets/6.jpg" alt="Home Screen" width="400"/>
+</div>
 
 
