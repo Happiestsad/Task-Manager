@@ -8,7 +8,7 @@
 
 ## 📝 About
 
-**Task Manager** is a lightweight and fast web app built with **React** and **Vite**, designed for smooth productivity and modern efficiency.
+**Task Manager** is a lightweight and fast web app built with **React** and **Vite**, designed for smooth productivity & modern efficiency.
 
 ### ✨ Key Functionalities
 - 🚀 **Lightning-fast performance** powered by Vite  
